@@ -18,4 +18,14 @@ A geração do código do registro FIP seguirá um algoritmo que utilizará tabe
 O aplicativo de manutenção da FIP deverá incluir telas de consulta com informações relacionadas à ordem de venda vinculada ao registro FIP, bem como dados da ordem de produção associada.
 
 Além disso, será desenvolvido um formulário básico para impressão de informações essenciais que poderão ser consultadas na fábrica. O formulário também deverá conter um espaço dedicado à coleta de dados para rastreabilidade.
+
+
+![image](https://github.com/user-attachments/assets/eb638ecc-2d86-4a52-a437-46dc94b2dbdd)
+
+
+
+O desenvolvimento da demanda terá início com a implementação das seis tabelas auxiliares, que serão utilizadas para manutenção de dados. Após a criação das tabelas conforme as especificações, serão desenvolvidos os respectivos aplicativos para manutenção dos registros.
+
+Os aplicativos serão implementados utilizando a tecnologia Fiori Elements, seguindo o template padrão. Para isso, serão utilizadas CDS Views e seus respectivos modelos de objetos, garantindo a integração e consistência dos dados.
+
 ![image](https://github.com/user-attachments/assets/4fd19cb4-5064-4080-8468-67ad1d31ee1d)
