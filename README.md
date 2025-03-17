@@ -18,3 +18,4 @@ A geração do código do registro FIP seguirá um algoritmo que utilizará tabe
 O aplicativo de manutenção da FIP deverá incluir telas de consulta com informações relacionadas à ordem de venda vinculada ao registro FIP, bem como dados da ordem de produção associada.
 
 Além disso, será desenvolvido um formulário básico para impressão de informações essenciais que poderão ser consultadas na fábrica. O formulário também deverá conter um espaço dedicado à coleta de dados para rastreabilidade.
+![image](https://github.com/user-attachments/assets/4fd19cb4-5064-4080-8468-67ad1d31ee1d)
